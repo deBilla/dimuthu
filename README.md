@@ -1,5 +1,5 @@
 # Dimuthu Wickramanayake
 Dimuthu Wickramanayake is a computer engineering professional.
 
-# Educaion
+# Education
 Faculty of engineering university of peradeniya.
