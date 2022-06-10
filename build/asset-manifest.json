@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dimuthu/static/css/main.e6c13ad2.css",
+    "main.js": "/dimuthu/static/js/main.b96a2a44.js",
+    "index.html": "/dimuthu/index.html",
+    "main.e6c13ad2.css.map": "/dimuthu/static/css/main.e6c13ad2.css.map",
+    "main.b96a2a44.js.map": "/dimuthu/static/js/main.b96a2a44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b96a2a44.js"
+  ]
+}
